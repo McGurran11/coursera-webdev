@@ -27,10 +27,6 @@ section {
 	font-size:1.25em;
 }
 
-div.row {
-	margin: -8px;
-}
-
 .row > div {
 	border: 1px solid black;
 	margin:10px;
