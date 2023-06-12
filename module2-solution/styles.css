@@ -35,7 +35,7 @@ div.row {
 	border: 1px solid black;
 	margin:10px;
 	background-color:lightgrey;
-	float:left; /*I TRIED ADDING IT HERE. IF THIS DOESN'T WORK, REMOVE THIS AND ADD BACK AT THE BOTTOM*/
+	float:left;
 }
 
 .row > div > p {
