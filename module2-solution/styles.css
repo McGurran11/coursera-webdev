@@ -65,14 +65,12 @@ section#SushiHeader {
 @media (min-width: 992px) {
 	div.large-3-columns {
 		width:31.2%;
-		/*float:left;*/
 	}
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
 	.medium-2-columns {
 		width:47.3%;
-		/*float:left*/
 	}
  }
 
