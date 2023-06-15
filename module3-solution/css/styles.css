@@ -49,6 +49,7 @@ div#collapsable-nav a {
 .menu-item-description{
   padding:20px;
   background-color:grey;
+  margin:auto auto 15px;
 }
 
 @media (max-width:768px)
