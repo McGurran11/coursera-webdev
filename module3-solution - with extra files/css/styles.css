@@ -1,0 +1,54 @@
+nav#header-nav {
+  background-color: grey;
+  border: 1px black solid;
+  border-radius: 0px;
+}
+
+.navbar-header {
+  min-height: 75px;
+}
+
+div.navbar-brand > a > h1 {
+  color:black;
+  margin:auto;
+}
+
+ul#nav-list {
+  background-color:navy;
+}
+
+div#collapsable-nav {
+  border:0px;
+}
+
+div#collapsable-nav hr {
+    width: 80%;
+    margin:0px auto;
+}
+
+.row{
+  margin:auto;
+}
+
+h3.menu-item-title{
+  margin-top:0px;
+}
+
+div#collapsable-nav a {
+  color:white;
+}
+
+.navbar-default .navbar-toggle { 
+  border-color:black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color:black;
+}
+
+.menu-item-description{
+  padding:20px;
+  background-color:grey;
+}
+
+@media (max-width:768px)
